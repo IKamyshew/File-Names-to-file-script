@@ -1,0 +1,16 @@
+﻿<Window x:Class="WriteFileNames.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Copy file names" Height="152" Width="366">
+    <WrapPanel Height="112" Name="border1" Width="345">
+        <Label Content="Files directory:"  Height="28" Width="95" Name="label1" />
+        <TextBox Width="250" Name="FilesDir"/>
+        <Label Content="Copy directory:"  Height="28" Width="95" Name="label2" />
+        <TextBox Width="250" Name="DestinationDir"/>
+        <StackPanel Width="345">
+            <Label Content="Example - From: D:\\Downloads, To file: D:\\FileName.txt" Height="28"/>
+            <Button Content="Copy" Click="Button_Click" Width="100" Height="28" />
+        </StackPanel>
+        
+    </WrapPanel>
+</Window>

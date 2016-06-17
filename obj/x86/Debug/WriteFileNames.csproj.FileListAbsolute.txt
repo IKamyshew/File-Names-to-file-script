@@ -1,0 +1,11 @@
+D:\Projects\Personal\C#\FileNamesToTxt\WriteFileNames\bin\Debug\WriteFileNames.exe
+D:\Projects\Personal\C#\FileNamesToTxt\WriteFileNames\bin\Debug\WriteFileNames.pdb
+D:\Projects\Personal\C#\FileNamesToTxt\WriteFileNames\obj\x86\Debug\MainWindow.baml
+D:\Projects\Personal\C#\FileNamesToTxt\WriteFileNames\obj\x86\Debug\MainWindow.g.cs
+D:\Projects\Personal\C#\FileNamesToTxt\WriteFileNames\obj\x86\Debug\App.g.cs
+D:\Projects\Personal\C#\FileNamesToTxt\WriteFileNames\obj\x86\Debug\WriteFileNames_MarkupCompile.cache
+D:\Projects\Personal\C#\FileNamesToTxt\WriteFileNames\obj\x86\Debug\WriteFileNames.g.resources
+D:\Projects\Personal\C#\FileNamesToTxt\WriteFileNames\obj\x86\Debug\WriteFileNames.Properties.Resources.resources
+D:\Projects\Personal\C#\FileNamesToTxt\WriteFileNames\obj\x86\Debug\WriteFileNames.csproj.GenerateResource.Cache
+D:\Projects\Personal\C#\FileNamesToTxt\WriteFileNames\obj\x86\Debug\WriteFileNames.exe
+D:\Projects\Personal\C#\FileNamesToTxt\WriteFileNames\obj\x86\Debug\WriteFileNames.pdb
